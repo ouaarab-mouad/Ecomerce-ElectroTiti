@@ -135,7 +135,7 @@ Ensure you have the following installed on your machine:
 
 
 
-## License
+## License & Credits
 
 This project is based on an open-source e-commerce template. The original work was developed by **[Kuzma02](https://github.com/Kuzma02)**. All rights and credits go to the original author. ElectroTiti extends and customizes the project for specific business needs.
 
